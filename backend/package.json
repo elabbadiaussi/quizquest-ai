@@ -1,0 +1,1 @@
+{"type":"module","dependencies":{"@google/genai":"^1.29.1","@google/generative-ai":"^0.24.1","cors":"^2.8.5","dotenv":"^17.2.3","express":"^5.1.0","mongoose":"^8.19.3","node-fetch":"^2.7.0","openai":"^6.9.0"},"scripts":{"test":"echo \"Error: no test specified\" && exit 1","dev":"nodemon index.js"},"devDependencies":{"nodemon":"^3.1.11"}}
